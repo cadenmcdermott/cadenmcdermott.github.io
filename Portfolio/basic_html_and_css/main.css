@@ -3,6 +3,7 @@ body {
   max-width: 70rem;
   margin-left: 10px;
   margin-right: 1opx;
+  background-color: peachpuff;
 }
 
 .newheader {
@@ -17,7 +18,10 @@ body {
 }
 
 img {
-  width: 50%;
+border-width:5px;
+border-style:solid;
+ border-color:black;
+border-radius:20px;
 }
 
 .caption {
